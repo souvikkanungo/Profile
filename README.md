@@ -1,6 +1,6 @@
 # Profile
 Updating Profile..
-<h2 align="left">Hi 👋! myself souvik and I'm a 4rd year student at Techno Main Saltlake from Kolkata..</h2>
+<h2 align="left">Hi 👋! myself souvik and I'm a 4th year student at Techno Main Saltlake from Kolkata..</h2>
 
 ###
 
