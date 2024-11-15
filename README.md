@@ -32,11 +32,7 @@ Updating Profile..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
 
-/* <img align="right" height="150" src="https://avatars.githubusercontent.com/u/142574282?s=400&u=a010a5f0171adcb03b587d81d4cfdcc7319d69aa&v=4"  /> */
-
-###
 
 <div align="left">
   <a href="https://mail.google.com/mail/souvikkanungo17@gmail.com" target="_blank">
