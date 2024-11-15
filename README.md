@@ -34,7 +34,7 @@ Updating Profile..
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/142574282?s=400&u=a010a5f0171adcb03b587d81d4cfdcc7319d69aa&v=4"  />
+/* <img align="right" height="150" src="https://avatars.githubusercontent.com/u/142574282?s=400&u=a010a5f0171adcb03b587d81d4cfdcc7319d69aa&v=4"  /> */
 
 ###
 
